@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="z">z</string>
+    <string name="x">x</string>
+    <string name="y">y</string>
+    <string name="zero">0</string>
+    <string name="lat">Lat</string>
+    <string name="Longitude">Long</string>
+</resources>
